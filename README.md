@@ -1,4 +1,4 @@
-# Name-Rectangle-Area-Basic-
+# Name-Rectangle-Area-Basic
 Rectangle Area
 This is a simple Java program to calculate the area of a rectangle. <br>
 I used a draft given at my College to learn how to create it. <br>
